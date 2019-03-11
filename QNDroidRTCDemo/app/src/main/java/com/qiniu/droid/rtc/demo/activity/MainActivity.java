@@ -49,6 +49,7 @@ public class MainActivity extends AppCompatActivity {
     private boolean mIsScreenCaptureEnabled;
     private int mCaptureMode = 0;
 
+    //test git on window
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
